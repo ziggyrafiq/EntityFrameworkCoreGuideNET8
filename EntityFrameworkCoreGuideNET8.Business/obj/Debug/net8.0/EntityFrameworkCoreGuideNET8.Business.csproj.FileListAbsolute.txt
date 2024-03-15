@@ -1,0 +1,17 @@
+E:\GitHub\EntityFrameworkCoreGuideNET8\EntityFrameworkCoreGuideNET8.Business\bin\Debug\net8.0\EntityFrameworkCoreGuideNET8.Business.deps.json
+E:\GitHub\EntityFrameworkCoreGuideNET8\EntityFrameworkCoreGuideNET8.Business\bin\Debug\net8.0\EntityFrameworkCoreGuideNET8.Business.dll
+E:\GitHub\EntityFrameworkCoreGuideNET8\EntityFrameworkCoreGuideNET8.Business\bin\Debug\net8.0\EntityFrameworkCoreGuideNET8.Business.pdb
+E:\GitHub\EntityFrameworkCoreGuideNET8\EntityFrameworkCoreGuideNET8.Business\bin\Debug\net8.0\EntityFrameworkCoreGuideNET8.Infrastructure.Data.dll
+E:\GitHub\EntityFrameworkCoreGuideNET8\EntityFrameworkCoreGuideNET8.Business\bin\Debug\net8.0\EntityFrameworkCoreGuideNET8.Infrastructure.Domain.dll
+E:\GitHub\EntityFrameworkCoreGuideNET8\EntityFrameworkCoreGuideNET8.Business\bin\Debug\net8.0\EntityFrameworkCoreGuideNET8.Infrastructure.Data.pdb
+E:\GitHub\EntityFrameworkCoreGuideNET8\EntityFrameworkCoreGuideNET8.Business\bin\Debug\net8.0\EntityFrameworkCoreGuideNET8.Infrastructure.Domain.pdb
+E:\GitHub\EntityFrameworkCoreGuideNET8\EntityFrameworkCoreGuideNET8.Business\obj\Debug\net8.0\EntityFrameworkCoreGuideNET8.Business.csproj.AssemblyReference.cache
+E:\GitHub\EntityFrameworkCoreGuideNET8\EntityFrameworkCoreGuideNET8.Business\obj\Debug\net8.0\EntityFrameworkCoreGuideNET8.Business.GeneratedMSBuildEditorConfig.editorconfig
+E:\GitHub\EntityFrameworkCoreGuideNET8\EntityFrameworkCoreGuideNET8.Business\obj\Debug\net8.0\EntityFrameworkCoreGuideNET8.Business.AssemblyInfoInputs.cache
+E:\GitHub\EntityFrameworkCoreGuideNET8\EntityFrameworkCoreGuideNET8.Business\obj\Debug\net8.0\EntityFrameworkCoreGuideNET8.Business.AssemblyInfo.cs
+E:\GitHub\EntityFrameworkCoreGuideNET8\EntityFrameworkCoreGuideNET8.Business\obj\Debug\net8.0\EntityFrameworkCoreGuideNET8.Business.csproj.CoreCompileInputs.cache
+E:\GitHub\EntityFrameworkCoreGuideNET8\EntityFrameworkCoreGuideNET8.Business\obj\Debug\net8.0\EntityFr.E64A876D.Up2Date
+E:\GitHub\EntityFrameworkCoreGuideNET8\EntityFrameworkCoreGuideNET8.Business\obj\Debug\net8.0\EntityFrameworkCoreGuideNET8.Business.dll
+E:\GitHub\EntityFrameworkCoreGuideNET8\EntityFrameworkCoreGuideNET8.Business\obj\Debug\net8.0\refint\EntityFrameworkCoreGuideNET8.Business.dll
+E:\GitHub\EntityFrameworkCoreGuideNET8\EntityFrameworkCoreGuideNET8.Business\obj\Debug\net8.0\EntityFrameworkCoreGuideNET8.Business.pdb
+E:\GitHub\EntityFrameworkCoreGuideNET8\EntityFrameworkCoreGuideNET8.Business\obj\Debug\net8.0\ref\EntityFrameworkCoreGuideNET8.Business.dll

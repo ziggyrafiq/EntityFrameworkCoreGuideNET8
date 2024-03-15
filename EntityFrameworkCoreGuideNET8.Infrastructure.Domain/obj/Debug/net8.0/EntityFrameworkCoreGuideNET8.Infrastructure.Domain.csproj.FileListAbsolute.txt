@@ -1,0 +1,11 @@
+E:\GitHub\EntityFrameworkCoreGuideNET8\EntityFrameworkCoreGuideNET8.Infrastructure.Domain\bin\Debug\net8.0\EntityFrameworkCoreGuideNET8.Infrastructure.Domain.deps.json
+E:\GitHub\EntityFrameworkCoreGuideNET8\EntityFrameworkCoreGuideNET8.Infrastructure.Domain\bin\Debug\net8.0\EntityFrameworkCoreGuideNET8.Infrastructure.Domain.dll
+E:\GitHub\EntityFrameworkCoreGuideNET8\EntityFrameworkCoreGuideNET8.Infrastructure.Domain\bin\Debug\net8.0\EntityFrameworkCoreGuideNET8.Infrastructure.Domain.pdb
+E:\GitHub\EntityFrameworkCoreGuideNET8\EntityFrameworkCoreGuideNET8.Infrastructure.Domain\obj\Debug\net8.0\EntityFrameworkCoreGuideNET8.Infrastructure.Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\GitHub\EntityFrameworkCoreGuideNET8\EntityFrameworkCoreGuideNET8.Infrastructure.Domain\obj\Debug\net8.0\EntityFrameworkCoreGuideNET8.Infrastructure.Domain.AssemblyInfoInputs.cache
+E:\GitHub\EntityFrameworkCoreGuideNET8\EntityFrameworkCoreGuideNET8.Infrastructure.Domain\obj\Debug\net8.0\EntityFrameworkCoreGuideNET8.Infrastructure.Domain.AssemblyInfo.cs
+E:\GitHub\EntityFrameworkCoreGuideNET8\EntityFrameworkCoreGuideNET8.Infrastructure.Domain\obj\Debug\net8.0\EntityFrameworkCoreGuideNET8.Infrastructure.Domain.csproj.CoreCompileInputs.cache
+E:\GitHub\EntityFrameworkCoreGuideNET8\EntityFrameworkCoreGuideNET8.Infrastructure.Domain\obj\Debug\net8.0\EntityFrameworkCoreGuideNET8.Infrastructure.Domain.dll
+E:\GitHub\EntityFrameworkCoreGuideNET8\EntityFrameworkCoreGuideNET8.Infrastructure.Domain\obj\Debug\net8.0\refint\EntityFrameworkCoreGuideNET8.Infrastructure.Domain.dll
+E:\GitHub\EntityFrameworkCoreGuideNET8\EntityFrameworkCoreGuideNET8.Infrastructure.Domain\obj\Debug\net8.0\EntityFrameworkCoreGuideNET8.Infrastructure.Domain.pdb
+E:\GitHub\EntityFrameworkCoreGuideNET8\EntityFrameworkCoreGuideNET8.Infrastructure.Domain\obj\Debug\net8.0\ref\EntityFrameworkCoreGuideNET8.Infrastructure.Domain.dll

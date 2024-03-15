@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\EntityFrameworkCoreGuideNET8.Business.UI.props" />
+</Project>

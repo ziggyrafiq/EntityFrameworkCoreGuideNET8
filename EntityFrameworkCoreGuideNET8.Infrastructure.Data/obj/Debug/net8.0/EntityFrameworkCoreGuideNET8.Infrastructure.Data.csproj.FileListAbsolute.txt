@@ -1,0 +1,15 @@
+E:\GitHub\EntityFrameworkCoreGuideNET8\EntityFrameworkCoreGuideNET8.Infrastructure.Data\bin\Debug\net8.0\EntityFrameworkCoreGuideNET8.Infrastructure.Data.deps.json
+E:\GitHub\EntityFrameworkCoreGuideNET8\EntityFrameworkCoreGuideNET8.Infrastructure.Data\bin\Debug\net8.0\EntityFrameworkCoreGuideNET8.Infrastructure.Data.dll
+E:\GitHub\EntityFrameworkCoreGuideNET8\EntityFrameworkCoreGuideNET8.Infrastructure.Data\bin\Debug\net8.0\EntityFrameworkCoreGuideNET8.Infrastructure.Data.pdb
+E:\GitHub\EntityFrameworkCoreGuideNET8\EntityFrameworkCoreGuideNET8.Infrastructure.Data\bin\Debug\net8.0\EntityFrameworkCoreGuideNET8.Infrastructure.Domain.dll
+E:\GitHub\EntityFrameworkCoreGuideNET8\EntityFrameworkCoreGuideNET8.Infrastructure.Data\bin\Debug\net8.0\EntityFrameworkCoreGuideNET8.Infrastructure.Domain.pdb
+E:\GitHub\EntityFrameworkCoreGuideNET8\EntityFrameworkCoreGuideNET8.Infrastructure.Data\obj\Debug\net8.0\EntityFrameworkCoreGuideNET8.Infrastructure.Data.csproj.AssemblyReference.cache
+E:\GitHub\EntityFrameworkCoreGuideNET8\EntityFrameworkCoreGuideNET8.Infrastructure.Data\obj\Debug\net8.0\EntityFrameworkCoreGuideNET8.Infrastructure.Data.GeneratedMSBuildEditorConfig.editorconfig
+E:\GitHub\EntityFrameworkCoreGuideNET8\EntityFrameworkCoreGuideNET8.Infrastructure.Data\obj\Debug\net8.0\EntityFrameworkCoreGuideNET8.Infrastructure.Data.AssemblyInfoInputs.cache
+E:\GitHub\EntityFrameworkCoreGuideNET8\EntityFrameworkCoreGuideNET8.Infrastructure.Data\obj\Debug\net8.0\EntityFrameworkCoreGuideNET8.Infrastructure.Data.AssemblyInfo.cs
+E:\GitHub\EntityFrameworkCoreGuideNET8\EntityFrameworkCoreGuideNET8.Infrastructure.Data\obj\Debug\net8.0\EntityFrameworkCoreGuideNET8.Infrastructure.Data.csproj.CoreCompileInputs.cache
+E:\GitHub\EntityFrameworkCoreGuideNET8\EntityFrameworkCoreGuideNET8.Infrastructure.Data\obj\Debug\net8.0\EntityFr.D84A6C7C.Up2Date
+E:\GitHub\EntityFrameworkCoreGuideNET8\EntityFrameworkCoreGuideNET8.Infrastructure.Data\obj\Debug\net8.0\EntityFrameworkCoreGuideNET8.Infrastructure.Data.dll
+E:\GitHub\EntityFrameworkCoreGuideNET8\EntityFrameworkCoreGuideNET8.Infrastructure.Data\obj\Debug\net8.0\refint\EntityFrameworkCoreGuideNET8.Infrastructure.Data.dll
+E:\GitHub\EntityFrameworkCoreGuideNET8\EntityFrameworkCoreGuideNET8.Infrastructure.Data\obj\Debug\net8.0\EntityFrameworkCoreGuideNET8.Infrastructure.Data.pdb
+E:\GitHub\EntityFrameworkCoreGuideNET8\EntityFrameworkCoreGuideNET8.Infrastructure.Data\obj\Debug\net8.0\ref\EntityFrameworkCoreGuideNET8.Infrastructure.Data.dll
